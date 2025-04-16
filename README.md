@@ -1,25 +1,20 @@
-# SQL Injection and Remediation
+# XSS attack and Remediation
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-https://github.com/JackBegay/Detection-lab/tree/main
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+For this lab, my professor taksed anyone to attempt to use SQL injection or XSS on any part of her system to see if their was any openings. We were given her link where we turn in assignments, link to where she posts class files and lectures, and lastly any files we were able to create ourselves and put on server through filezilla. If we were able to do it we recieved extra credit on an assignment if we could successfully do the attack and tell her how to fix it. 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-
+- Unerstanding XSS attacks and where to look for weaknesses
+- Ability to do XSS attack that affect everyone on a server
+- Development of problem-solving in fixing vunerabilities in python code
+  
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Worked with professor's home server that also tracked all our assignments being turned in
+- Ulitized visual studio code to modify CGI Python code that accesses a database
+- Filezilla to move code onto her server than replacing it with fixed code
+
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
