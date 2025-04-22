@@ -6,12 +6,12 @@ For this lab, my professor taksed anyone to attempt to use SQL injection or XSS 
 ### Skills Learned
 
 - Unerstanding XSS attacks and where to look for weaknesses
-- Ability to do XSS attack that affect everyone on a server
+- Ability to do XSS attack that affects everyone on a server
 - Development of problem-solving in fixing vunerabilities in python code
   
 ### Tools Used
 
-- Worked with professor's home server that also tracked all files being used and turned in to her
+- Worked with the professor's home server that was used for class work
 - Ulitized visual studio code to modify CGI Python code that accesses a database and remedy the problem
 - Filezilla to move code onto her server than replacing it with fixed code
 
@@ -20,7 +20,6 @@ For this lab, my professor taksed anyone to attempt to use SQL injection or XSS 
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
-
 Example below.
 
 *Ref 1: Network Diagram*
